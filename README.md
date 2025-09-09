@@ -1,4 +1,4 @@
-# Weather API Fetcher 🌦️
+# Weather API Fetcher 
 
 Tiny Python script that pulls **current weather data** for any city using the [OpenWeatherMap API](https://openweathermap.org/api).
 
@@ -9,12 +9,12 @@ Tiny Python script that pulls **current weather data** for any city using the [O
 
 ## Example
 ```bash
-python weather_fetcher.py Doha --api-key YOUR_API_KEY
+python weather_fetcher.py Kuwait --api-key YOUR_API_KEY
 ```
 
 Output:
 ```
-Weather in Doha 🌤️
+Weather in Kuwait
 | Metric           | Value |
 |------------------|-------|
 | Temperature (°C) | 41.2  |
